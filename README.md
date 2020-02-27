@@ -33,7 +33,7 @@ Projects completed as a part of Great Learning's PGP - Artificial Intelligence a
     
 7. Neural Networks
     - This module covered - Gradient Descent, - Batch Normalization, - Hyper parameter tuning, - Tensor Flow & Keras for Neural Networks & Deep Learning, - Introduction to Perceptron & Neural Networks, - Activation and Loss functions, - Deep Neural Networks
-    - **Project link:** [Neural Networks]()
+    - **Project link:** [Neural Networks](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/07_Neural%20Networks/07_Neural_Network.ipynb)
         - SVHN is a real-world image dataset for developing object recognition algorithms with a requirement on data formatting but comes from a significantly harder, unsolved, real-world problem (recognizing digits and numbers in natural scene images). SVHN is obtained from house numbers in Google Street View images. The objective of the project is to learn how to implement a simple image classification pipeline based on the k-Nearest Neighbour and a deep neural network.
 
 8. Computer Vision
