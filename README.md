@@ -84,7 +84,7 @@ $ cd AIML-Projects
 
 **8. Computer Vision**
    - Covers Introduction to Convolutional Neural Networks, Convolution, Pooling, Padding & its mechanisms, Transfer Learning, Forward propagation & Backpropagation for CNNs, CNN architectures like AlexNet, VGGNet, InceptionNet & ResNet
-      - **Project link:**
+      - **Project link:** [Face Detection](https://github.com/sharmapratik88/AIML-Projects/blob/master/08_Computer%20Vision/08_Computer_Vision_Face_Detection.ipynb)
          - Recognize, identify and classify faces within images using CNN and image recognition algorithms. In this hands-on project, the goal is to build a face recognition system, which includes building a face detector to locate the position of a face in an image and a face identification model to recognize whose face it is by matching it to the existing database of faces.
          
          * ***[Image](https://github.com/sharmapratik88/AIML-Projects/blob/master/08_Computer%20Vision/images/orig.png)***
@@ -101,7 +101,7 @@ $ cd AIML-Projects
 
 **9. Advanced Computer Vision**
    - Covers Semantic segmentation, Siamese Networks, YOLO, Object & face recognition using techniques above
-      - **Project link:**
+      - **Project link:** [Face Recognition](https://github.com/sharmapratik88/AIML-Projects/blob/master/09_Advanced%20Computer%20Vision/09_Computer_Vision_Face_Recognition.ipynb)
          - Face recognition deals with Computer Vision a discipline of Artificial Intelligence and uses techniques of image processing and deep learning. The objective of this project is to build a face recognition system, which includes building a face detector to locate the position of a face in an image and a face identification model to recognize whose face it is by matching it to the existing database of faces.
          
          * ***Aligned Faces Dataset from Pinterest (10k+ images of 100 celebs) - Face recognition model recognises similar faces with an accuracy of 97% and F1 score of 96%.***
