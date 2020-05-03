@@ -38,6 +38,7 @@ $ cd AIML-Projects
    - Covers Decision Trees, Bagging, Random Forests, Boosting
       - **Project link:** [Ensemble Technique](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/03_Ensemble%20Techniques/03_Ensemble%20Techniques.ipynb)
          - Leveraged customer information of bank marketing campaigns to predict whether a customer will subscribe to term deposit or not. Different classification algorithms like Decision tree, Logistic Regression were used. Ensemble techniques like Random forest were used to further improve the classification results.
+        
         ***Decision Tree***
         ![Decision Tree](https://github.com/sharmapratik88/AIML-Projects/blob/master/03_Ensemble%20Techniques/images/dtree.png)
         ***Random Forest***
