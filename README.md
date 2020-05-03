@@ -103,6 +103,9 @@ $ cd AIML-Projects
    - Covers Semantic segmentation, Siamese Networks, YOLO, Object & face recognition using techniques above
       - **Project link:**
          - Face recognition deals with Computer Vision a discipline of Artificial Intelligence and uses techniques of image processing and deep learning. The objective of this project is to build a face recognition system, which includes building a face detector to locate the position of a face in an image and a face identification model to recognize whose face it is by matching it to the existing database of faces.
+         
+         * ***[Faces Identified - Results](https://github.com/sharmapratik88/AIML-Projects/blob/master/09_Advanced%20Computer%20Vision/images/results.png)
+         ![result](https://github.com/sharmapratik88/AIML-Projects/blob/master/09_Advanced%20Computer%20Vision/images/results.png)
    
 **10. Statistical NLP (Natural Language Processing)**
    - Covers Bag of Words Model, POS Tagging, Tokenization, Word Vectorizer, TF-IDF, Named Entity Recognition, Stop Words
