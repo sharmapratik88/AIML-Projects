@@ -104,7 +104,8 @@ $ cd AIML-Projects
       - **Project link:**
          - Face recognition deals with Computer Vision a discipline of Artificial Intelligence and uses techniques of image processing and deep learning. The objective of this project is to build a face recognition system, which includes building a face detector to locate the position of a face in an image and a face identification model to recognize whose face it is by matching it to the existing database of faces.
          
-         * ***[Faces Identified - Results](https://github.com/sharmapratik88/AIML-Projects/blob/master/09_Advanced%20Computer%20Vision/images/results.png)
+         * ***Aligned Faces Dataset from Pinterest (10k+ images of 100 celebs) - Face recognition model recognises similar faces with an accuracy of 97% and F1 score of 96%.***
+         * ***[Faces Identified - Results](https://github.com/sharmapratik88/AIML-Projects/blob/master/09_Advanced%20Computer%20Vision/images/results.png)***
          ![result](https://github.com/sharmapratik88/AIML-Projects/blob/master/09_Advanced%20Computer%20Vision/images/results.png)
    
 **10. Statistical NLP (Natural Language Processing)**
