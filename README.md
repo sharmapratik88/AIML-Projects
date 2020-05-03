@@ -16,6 +16,7 @@ $ cd AIML-Projects
          ![3Ms and Distribution of BMI](https://github.com/sharmapratik88/AIML-Projects/blob/master/01_Applied%20Stats/images/bmi_distribution.png)
          ![3Ms and Distribution of Charges](https://github.com/sharmapratik88/AIML-Projects/blob/master/01_Applied%20Stats/images/charges_distribution.png)
          ![Distribution of Charges by #Children](https://github.com/sharmapratik88/AIML-Projects/blob/master/01_Applied%20Stats/images/charges_%23_child_dist.png)
+         ![Distribution of BMI of Female with #Children](https://github.com/sharmapratik88/AIML-Projects/blob/master/01_Applied%20Stats/images/female_child_dist.png)
     
 **2. Supervised Machine Learning**
    - Covers Multiple Variable Linear regression, Logistic regression, Naive Bayes classifiers, Multiple regression, K-NN classification, Support vector machines
