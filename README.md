@@ -24,7 +24,7 @@ $ cd AIML-Projects
         - Identified potential loan customers for Thera Bank using classification techniques. Compared models built with Logistic Regression and KNN algorithm in order to select the best performing one.
         
         * ***[Personal Loan vs Income](https://github.com/sharmapratik88/AIML-Projects/blob/master/02_Supervised%20Machine%20Learning/images/personal_loan.png)***
-        * ***Model Scores***
+        * ***[Model Scores](https://github.com/sharmapratik88/AIML-Projects/blob/master/02_Supervised%20Machine%20Learning/images/scores.PNG)***
         ![Scores](https://github.com/sharmapratik88/AIML-Projects/blob/master/02_Supervised%20Machine%20Learning/images/scores.PNG)
         * ***[Model Scores with SMOTE](https://github.com/sharmapratik88/AIML-Projects/blob/master/02_Supervised%20Machine%20Learning/images/scores_smote.PNG)***
         ![Scores with SMOTE](https://github.com/sharmapratik88/AIML-Projects/blob/master/02_Supervised%20Machine%20Learning/images/scores_smote.PNG)
@@ -47,7 +47,7 @@ $ cd AIML-Projects
         * ***[Columns after removing outliers](https://github.com/sharmapratik88/AIML-Projects/blob/master/04_Unsupervised%20Learning/images/without_outliers.png)***
         * ***[Correlation Matrix](https://github.com/sharmapratik88/AIML-Projects/blob/master/04_Unsupervised%20Learning/images/corr_matrix.png)***
         * ***[PCA Explained Variance](https://github.com/sharmapratik88/AIML-Projects/blob/master/04_Unsupervised%20Learning/images/explained_var.png)***
-        * ***Dimensionality Reduction***
+        * ***[Dimensionality Reduction](https://github.com/sharmapratik88/AIML-Projects/blob/master/04_Unsupervised%20Learning/images/dimensionality_red.png)***
         ![DR](https://github.com/sharmapratik88/AIML-Projects/blob/master/04_Unsupervised%20Learning/images/dimensionality_red.png)
         * ***[Training vs Cross-Validation Scores](https://github.com/sharmapratik88/AIML-Projects/blob/master/04_Unsupervised%20Learning/images/scores.png)***
         ![scores](https://github.com/sharmapratik88/AIML-Projects/blob/master/04_Unsupervised%20Learning/images/scores.png)
