@@ -12,26 +12,28 @@ $ cd AIML-Projects
    - Covers Descriptive Statistics, Probability & Conditional Probability, Hypothesis Testing, Inferential Statistics, Probability Distributions, Types of distribution and Binomial, Poisson & Normal distribution.
       - **Project link:** [Applied Stats](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/01_Applied%20Stats/01_Medical%20Cost%20Dataset.ipynb)
          - This project used Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, bmi, age, and gender for checking statistical evidence to make valuable decisions of insurance business like charges for health insurance.
-         *3Ms and Distribution of BMI*
+         
+         ***3Ms and Distribution of BMI***
          ![3Ms and Distribution of BMI](https://github.com/sharmapratik88/AIML-Projects/blob/master/01_Applied%20Stats/images/bmi_distribution.png)
-         *3Ms and Distribution of Charges*
+         ***3Ms and Distribution of Charges***
          ![3Ms and Distribution of Charges](https://github.com/sharmapratik88/AIML-Projects/blob/master/01_Applied%20Stats/images/charges_distribution.png)
-         *Distribution of Charges by # of Children*
+         ***Distribution of Charges by # of Children***
          ![Distribution of Charges by #Children](https://github.com/sharmapratik88/AIML-Projects/blob/master/01_Applied%20Stats/images/charges_%23_child_dist.png)
-         *Distribution of BMI of Female with # Children*
+         ***Distribution of BMI of Female with # Children***
          ![Distribution of BMI of Female with #Children](https://github.com/sharmapratik88/AIML-Projects/blob/master/01_Applied%20Stats/images/female_child_dist.png)
     
 **2. Supervised Machine Learning**
    - Covers Multiple Variable Linear regression, Logistic regression, Naive Bayes classifiers, Multiple regression, K-NN classification, Support vector machines
       - **Project link:** [Supervised Machine Learning](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/02_Supervised%20Machine%20Learning/02_Supervised%20Machine%20Learning.ipynb)
         - Identified potential loan customers for Thera Bank using classification techniques. Compared models built with Logistic Regression and KNN algorithm in order to select the best performing one.
-        *Personal Loan vs Income*
+        
+        ***Personal Loan vs Income***
         ![Personal loan vs Income](https://github.com/sharmapratik88/AIML-Projects/blob/master/02_Supervised%20Machine%20Learning/images/personal_loan.png)
-        *Correlation Matrix*
+        ***Correlation Matrix***
         ![Correlation Matrix](https://github.com/sharmapratik88/AIML-Projects/blob/master/02_Supervised%20Machine%20Learning/images/correlation_matrix.png)
-        *Model Scores*
+        ***Model Scores***
         ![Scores](https://github.com/sharmapratik88/AIML-Projects/blob/master/02_Supervised%20Machine%20Learning/images/scores.PNG)
-        *Model Scores with SMOTE*
+        ***Model Scores with SMOTE***
         ![Scores with SMOTE](https://github.com/sharmapratik88/AIML-Projects/blob/master/02_Supervised%20Machine%20Learning/images/scores_smote.PNG)
 
 **3. Ensemble Techniques**
