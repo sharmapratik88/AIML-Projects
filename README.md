@@ -88,10 +88,15 @@ $ cd AIML-Projects
          - Recognize, identify and classify faces within images using CNN and image recognition algorithms. In this hands-on project, the goal is to build a face recognition system, which includes building a face detector to locate the position of a face in an image and a face identification model to recognize whose face it is by matching it to the existing database of faces.
          
          * ***[Image](https://github.com/sharmapratik88/AIML-Projects/blob/master/08_Computer%20Vision/images/orig.png)***
+         
          ![image](https://github.com/sharmapratik88/AIML-Projects/blob/master/08_Computer%20Vision/images/orig.png)
+         
          * ***[Face Detected (Mask)](https://github.com/sharmapratik88/AIML-Projects/blob/master/08_Computer%20Vision/images/detected.png)***
+         
          ![mask](https://github.com/sharmapratik88/AIML-Projects/blob/master/08_Computer%20Vision/images/detected.png)
+         
          * ***[Face & Mask](https://github.com/sharmapratik88/AIML-Projects/blob/master/08_Computer%20Vision/images/face_detected.png)***
+         
          ![mask](https://github.com/sharmapratik88/AIML-Projects/blob/master/08_Computer%20Vision/images/face_detected.png)
 
 **9. Advanced Computer Vision**
