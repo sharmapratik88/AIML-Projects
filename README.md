@@ -1,5 +1,5 @@
 # Artificial Intelligence and Machine Learning Projects
-Projects completed as a part of Great Learning's PGP - Artificial Intelligence and Machine Learning. The program is internationally recognized and participants earn dual certificates from The University of Texas at Austin and Great Lakes.
+Projects completed as a part of Great Learning's PGP - Artificial Intelligence and Machine Learning.
 
 ## Installation
 ```
