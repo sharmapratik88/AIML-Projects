@@ -128,5 +128,5 @@ $ cd AIML-Projects
       - **Project link:**
 
 ## License
-[MIT License](https://github.com/sharmapratik88/AIML-Projects/blob/master/LICENSE)
+Released under [MIT License](https://github.com/sharmapratik88/AIML-Projects/blob/master/LICENSE)
 Copyright (c) 2020 Pratik Sharma
