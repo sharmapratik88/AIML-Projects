@@ -44,6 +44,14 @@ $ cd AIML-Projects
       - **Project link:** [Unsupervised Learning](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/04_Unsupervised%20Learning/04_Unsupervised%20Learning.ipynb)
          - Classified vehicles into different types based on silhouettes which may be viewed from many angles. Used PCA in order to reduce dimensionality and SVM for classification
 
+        * ***[Columns after removing outliers](https://github.com/sharmapratik88/AIML-Projects/blob/master/04_Unsupervised%20Learning/images/without_outliers.png)***
+        * ***[Correlation Matrix](https://github.com/sharmapratik88/AIML-Projects/blob/master/04_Unsupervised%20Learning/images/corr_matrix.png)***
+        * ***[PCA Explained Variance](https://github.com/sharmapratik88/AIML-Projects/blob/master/04_Unsupervised%20Learning/images/explained_var.png)***
+        * ***Dimensionality Reduction***
+        ![DR](https://github.com/sharmapratik88/AIML-Projects/blob/master/04_Unsupervised%20Learning/images/dimensionality_red.png)
+        * ***Training vs Cross-Validation Scores***
+        ![scores](https://github.com/sharmapratik88/AIML-Projects/blob/master/04_Unsupervised%20Learning/images/scores.png)
+
 **5. Feature Engineering Techniques**
    - Covers Exploratory Data Analysis, Feature Exploration and Selection Techniques, Hyperparameter Tuning
       - **Project link:** [Feature Engineering Techniques](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/05_Feature%20Engineering%20Techniques/05_Feature_Engineering_Techniques.ipynb)
