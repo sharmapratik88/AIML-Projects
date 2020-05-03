@@ -10,7 +10,7 @@ $ cd AIML-Projects
 ## Projects done
 **1. Statistical Learning**
    - Covers Descriptive Statistics, Probability & Conditional Probability, Hypothesis Testing, Inferential Statistics, Probability Distributions, Types of distribution and Binomial, Poisson & Normal distribution.
-      - **Project link:** [Applied Stats](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/01_Applied%20Stats/Medical%20Cost%20Dataset.ipynb)
+      - **Project link:** [Applied Stats](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/01_Applied%20Stats/01_Medical%20Cost%20Dataset.ipynb)
          - This project used Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, bmi, age, and gender for checking statistical evidence to make valuable decisions of insurance business like charges for health insurance.
     
 **2. Supervised Machine Learning**
