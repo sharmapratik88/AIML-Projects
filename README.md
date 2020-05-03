@@ -113,6 +113,9 @@ $ cd AIML-Projects
       - **Project link:**
     
 **11. Sequential NLP (Natural Language Processing)**
+
+
+
    - Covers Introduction to Sequential data, Vanishing & Exploding gradients in RNNs, LSTMs, GRUs (Gated recurrent unit), Case study: Sentiment analysis, RNNs and its mechanisms, Time series analysis, LSTMs with attention mechanism, Case study: Machine Translation
       - **Project link:**
 
@@ -123,3 +126,7 @@ $ cd AIML-Projects
 **13. Reinforcement Learning**
    - Covers Value based methods Q-learning, Policy based methods
       - **Project link:**
+
+## License
+[MIT License](https://github.com/sharmapratik88/AIML-Projects/blob/master/LICENSE)
+Copyright (c) 2020 Pratik Sharma
