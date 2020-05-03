@@ -80,9 +80,7 @@ $ cd AIML-Projects
       - **Project link:** [Neural Networks](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/07_Neural%20Networks/07_Neural_Network.ipynb)
         - SVHN is a real-world image dataset for developing object recognition algorithms with a requirement on data formatting but comes from a significantly harder, unsolved, real-world problem (recognizing digits and numbers in natural scene images). SVHN is obtained from house numbers in Google Street View images. The objective of the project is to learn how to implement a simple image classification pipeline based on the k-Nearest Neighbour and a deep neural network.
         * ***[Model Accuracy](https://github.com/sharmapratik88/AIML-Projects/blob/master/07_Neural%20Networks/images/model_acc.png)***
-            ![acc](https://github.com/sharmapratik88/AIML-Projects/blob/master/07_Neural%20Networks/images/model_acc.png)
         * ***[Model Loss](https://github.com/sharmapratik88/AIML-Projects/blob/master/07_Neural%20Networks/images/model_loss.png)***
-            ![loss](https://github.com/sharmapratik88/AIML-Projects/blob/master/07_Neural%20Networks/images/model_loss.png)
 
 **8. Computer Vision**
    - Covers Introduction to Convolutional Neural Networks, Convolution, Pooling, Padding & its mechanisms, Transfer Learning, Forward propagation & Backpropagation for CNNs, CNN architectures like AlexNet, VGGNet, InceptionNet & ResNet
