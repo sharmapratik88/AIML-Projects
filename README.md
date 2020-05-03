@@ -20,22 +20,28 @@ $ cd AIML-Projects
 
    - Covers Multiple Variable Linear regression, Logistic regression, Naive Bayes classifiers, Multiple regression, K-NN classification, Support vector machines
 
-   - **Project link:** [Supervised Machine Learning](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/02_Supervised%20Machine%20Learning/02_Supervised%20Machine%20Learning.ipynb)
+      - **Project link:** [Supervised Machine Learning](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/02_Supervised%20Machine%20Learning/02_Supervised%20Machine%20Learning.ipynb)
    
-      - Identified potential loan customers for Thera Bank using classification techniques. Compared models built with Logistic Regression and KNN algorithm in order to select the best performing one.
+        - Identified potential loan customers for Thera Bank using classification techniques. Compared models built with Logistic Regression and KNN algorithm in order to select the best performing one.
 
 **3. Ensemble Techniques**
-    - Covers Decision Trees, Bagging, Random Forests, Boosting
+
+   - Covers Decision Trees, Bagging, Random Forests, Boosting
+
       - **Project link:** [Ensemble Technique](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/03_Ensemble%20Techniques/03_Ensemble%20Techniques.ipynb)
-        - Leveraged customer information of bank marketing campaigns to predict whether a customer will subscribe to term deposit or not. Different classification algorithms like Decision tree, Logistic Regression were used. Ensemble techniques like Random forest were used to further improve the classification results.
+      
+         - Leveraged customer information of bank marketing campaigns to predict whether a customer will subscribe to term deposit or not. Different classification algorithms like Decision tree, Logistic Regression were used. Ensemble techniques like Random forest were used to further improve the classification results.
 
 **4. Unsupervised Machine Learning**
-    - Covers K-means clustering, High-dimensional clustering, Hierarchical clustering, Dimension Reduction-PCA4
+
+   - Covers K-means clustering, High-dimensional clustering, Hierarchical clustering, Dimension Reduction-PCA4
+   
       - **Project link:** [Unsupervised Learning](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/04_Unsupervised%20Learning/04_Unsupervised%20Learning.ipynb)
-        - Classified vehicles into different types based on silhouettes which may be viewed from many angles. Used PCA in order to reduce dimensionality and SVM for classification
+     
+         - Classified vehicles into different types based on silhouettes which may be viewed from many angles. Used PCA in order to reduce dimensionality and SVM for classification
 
 **5. Feature Engineering Techniques**
-    - Covers Exploratory Data Analysis, Feature Exploration and Selection Techniques, Hyperparameter Tuning
+   - Covers Exploratory Data Analysis, Feature Exploration and Selection Techniques, Hyperparameter Tuning
       - **Project link:** [Feature Engineering Techniques](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/05_Feature%20Engineering%20Techniques/05_Feature_Engineering_Techniques.ipynb)
         - Used feature exploration and selection technique to predict the strength of high-performance concrete. Used regression models like decision tree regressors to find out the most important features and predict the strength. Cross-validation techniques and grid search were used to tune the parameters for the best model performance.
     
