@@ -56,6 +56,17 @@ $ cd AIML-Projects
    - Covers Exploratory Data Analysis, Feature Exploration and Selection Techniques, Hyperparameter Tuning
       - **Project link:** [Feature Engineering Techniques](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/05_Feature%20Engineering%20Techniques/05_Feature_Engineering_Techniques.ipynb)
         - Used feature exploration and selection technique to predict the strength of high-performance concrete. Used regression models like decision tree regressors to find out the most important features and predict the strength. Cross-validation techniques and grid search were used to tune the parameters for the best model performance.
+
+        * ***[OLS Regression Results](https://github.com/sharmapratik88/AIML-Projects/blob/master/05_Feature%20Engineering%20Techniques/images/reg.PNG)***
+        * ***[Leverage v.s. Studentized Residuals](https://github.com/sharmapratik88/AIML-Projects/blob/master/05_Feature%20Engineering%20Techniques/images/leverage.png)***
+        ![leverage](https://github.com/sharmapratik88/AIML-Projects/blob/master/05_Feature%20Engineering%20Techniques/images/leverage.png)
+        * ***[Pairwise Feature Importance](https://github.com/sharmapratik88/AIML-Projects/blob/master/05_Feature%20Engineering%20Techniques/images/FI.png)***
+        * ***[Clusters](https://github.com/sharmapratik88/AIML-Projects/blob/master/05_Feature%20Engineering%20Techniques/images/clusters.png)***
+        * ***[Model Scores](https://github.com/sharmapratik88/AIML-Projects/blob/master/05_Feature%20Engineering%20Techniques/images/scores.PNG)***
+        ![scores](https://github.com/sharmapratik88/AIML-Projects/blob/master/05_Feature%20Engineering%20Techniques/images/scores.PNG)
+        * ***[Boostrapping Confidence Level](https://github.com/sharmapratik88/AIML-Projects/blob/master/05_Feature%20Engineering%20Techniques/images/bootstraping_conf.png)***
+        ![confidence](https://github.com/sharmapratik88/AIML-Projects/blob/master/05_Feature%20Engineering%20Techniques/images/bootstraping_conf.png)
+        
     
 **6. Recommendation Systems**
    - Covers Introduction to Recommendation systems, Popularity based model, Hybrid models, Content based recommendation system, Collaborative filtering (User similarity & Item similarity)
