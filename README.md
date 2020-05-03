@@ -85,19 +85,21 @@ $ cd AIML-Projects
 **8. Computer Vision**
    - Covers Introduction to Convolutional Neural Networks, Convolution, Pooling, Padding & its mechanisms, Transfer Learning, Forward propagation & Backpropagation for CNNs, CNN architectures like AlexNet, VGGNet, InceptionNet & ResNet
       - **Project link:**
+         - Recognize, identify and classify faces within images using CNN and image recognition algorithms. In this hands-on project, the goal is to build a face recognition system, which includes building a face detector to locate the position of a face in an image and a face identification model to recognize whose face it is by matching it to the existing database of faces.
+         
+**9. Advanced Computer Vision**
+   - Covers Semantic segmentation, Siamese Networks, YOLO, Object & face recognition using techniques above
+      - **Project link:**
+         - Face recognition deals with Computer Vision a discipline of Artificial Intelligence and uses techniques of image processing and deep learning. The objective of this project is to build a face recognition system, which includes building a face detector to locate the position of a face in an image and a face identification model to recognize whose face it is by matching it to the existing database of faces.
    
-**9. Statistical NLP (Natural Language Processing)**
+**10. Statistical NLP (Natural Language Processing)**
    - Covers Bag of Words Model, POS Tagging, Tokenization, Word Vectorizer, TF-IDF, Named Entity Recognition, Stop Words
       - **Project link:**
     
-**10. Sequential NLP (Natural Language Processing)**
+**11. Sequential NLP (Natural Language Processing)**
    - Covers Introduction to Sequential data, Vanishing & Exploding gradients in RNNs, LSTMs, GRUs (Gated recurrent unit), Case study: Sentiment analysis, RNNs and its mechanisms, Time series analysis, LSTMs with attention mechanism, Case study: Machine Translation
       - **Project link:**
-    
-**11. Advanced Computer Vision**
-   - Covers Semantic segmentation, Siamese Networks, YOLO, Object & face recognition using techniques above
-      - **Project link:**
-    
+
 **12. GANs (Generative adversarial networks)**
    - Covers Introduction to GANs, How GANs work?, AutoEncoders, Applications of GANs
       - **Project link:**
