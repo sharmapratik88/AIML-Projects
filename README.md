@@ -29,8 +29,6 @@ $ cd AIML-Projects
         
         ***Personal Loan vs Income***
         ![Personal loan vs Income](https://github.com/sharmapratik88/AIML-Projects/blob/master/02_Supervised%20Machine%20Learning/images/personal_loan.png)
-        ***Correlation Matrix***
-        ![Correlation Matrix](https://github.com/sharmapratik88/AIML-Projects/blob/master/02_Supervised%20Machine%20Learning/images/correlation_matrix.png)
         ***Model Scores***
         ![Scores](https://github.com/sharmapratik88/AIML-Projects/blob/master/02_Supervised%20Machine%20Learning/images/scores.PNG)
         ***Model Scores with SMOTE***
