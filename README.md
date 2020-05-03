@@ -45,24 +45,24 @@ $ cd AIML-Projects
 
 **8. Computer Vision**
    - Covers Introduction to Convolutional Neural Networks, Convolution, Pooling, Padding & its mechanisms, Transfer Learning, Forward propagation & Backpropagation for CNNs, CNN architectures like AlexNet, VGGNet, InceptionNet & ResNet
-   - **Project link:**
+      - **Project link:**
    
 **9. Statistical NLP (Natural Language Processing)**
    - Covers Bag of Words Model, POS Tagging, Tokenization, Word Vectorizer, TF-IDF, Named Entity Recognition, Stop Words
       - **Project link:**
     
 **10. Sequential NLP (Natural Language Processing)**
-    - Covers Introduction to Sequential data, Vanishing & Exploding gradients in RNNs, LSTMs, GRUs (Gated recurrent unit), Case study: Sentiment analysis, RNNs and its mechanisms, Time series analysis, LSTMs with attention mechanism, Case study: Machine Translation
+   - Covers Introduction to Sequential data, Vanishing & Exploding gradients in RNNs, LSTMs, GRUs (Gated recurrent unit), Case study: Sentiment analysis, RNNs and its mechanisms, Time series analysis, LSTMs with attention mechanism, Case study: Machine Translation
       - **Project link:**
     
 **11. Advanced Computer Vision**
-    - Covers Semantic segmentation, Siamese Networks, YOLO, Object & face recognition using techniques above
+   - Covers Semantic segmentation, Siamese Networks, YOLO, Object & face recognition using techniques above
       - **Project link:**
     
 **12. GANs (Generative adversarial networks)**
-    - Covers Introduction to GANs, How GANs work?, AutoEncoders, Applications of GANs
+   - Covers Introduction to GANs, How GANs work?, AutoEncoders, Applications of GANs
       - **Project link:**
     
 **13. Reinforcement Learning**
-    - Covers Value based methods Q-learning, Policy based methods
+   - Covers Value based methods Q-learning, Policy based methods
       - **Project link:**
