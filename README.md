@@ -9,9 +9,12 @@ $ cd AIML-Projects
 
 ## Projects done
 **1. Statistical Learning**
-    * Covers Descriptive Statistics, Probability & Conditional Probability, Hypothesis Testing, Inferential Statistics, Probability Distributions, Types of distribution and Binomial, Poisson & Normal distribution.
+
+   - Covers Descriptive Statistics, Probability & Conditional Probability, Hypothesis Testing, Inferential Statistics, Probability Distributions, Types of distribution and Binomial, Poisson & Normal distribution.
+   
       - **Project link:** [Applied Stats](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/01_Applied%20Stats/Medical%20Cost%20Dataset.ipynb)
-        - This project used Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, bmi, age, and gender for checking statistical evidence to make valuable decisions of insurance business like charges for health insurance.
+         
+         - This project used Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, bmi, age, and gender for checking statistical evidence to make valuable decisions of insurance business like charges for health insurance.
     
 **2. Supervised Machine Learning**
     - Covers Multiple Variable Linear regression, Logistic regression, Naive Bayes classifiers, Multiple regression, K-NN classification, Support vector machines
@@ -44,11 +47,15 @@ $ cd AIML-Projects
         - SVHN is a real-world image dataset for developing object recognition algorithms with a requirement on data formatting but comes from a significantly harder, unsolved, real-world problem (recognizing digits and numbers in natural scene images). SVHN is obtained from house numbers in Google Street View images. The objective of the project is to learn how to implement a simple image classification pipeline based on the k-Nearest Neighbour and a deep neural network.
 
 **8. Computer Vision**
-    - Covers Introduction to Convolutional Neural Networks, Convolution, Pooling, Padding & its mechanisms, Transfer Learning, Forward propagation & Backpropagation for CNNs, CNN architectures like AlexNet, VGGNet, InceptionNet & ResNet
+   
+   - Covers Introduction to Convolutional Neural Networks, Convolution, Pooling, Padding & its mechanisms, Transfer Learning, Forward propagation & Backpropagation for CNNs, CNN architectures like AlexNet, VGGNet, InceptionNet & ResNet
+   
       - **Project link:**
     
 **9. Statistical NLP (Natural Language Processing)**
-    - This module covered Bag of Words Model, POS Tagging, Tokenization, Word Vectorizer, TF-IDF, Named Entity Recognition, Stop Words
+   
+   - Covers Bag of Words Model, POS Tagging, Tokenization, Word Vectorizer, TF-IDF, Named Entity Recognition, Stop Words
+   
       - **Project link:**
     
 **10. Sequential NLP (Natural Language Processing)**
