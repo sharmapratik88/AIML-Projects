@@ -72,6 +72,8 @@ $ cd AIML-Projects
    - Covers Introduction to Recommendation systems, Popularity based model, Hybrid models, Content based recommendation system, Collaborative filtering (User similarity & Item similarity)
       - **Project link:** [Recommendation Systems](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/06_Recommendation%20Systems/06_Recommendation_System_Pratik.ipynb)
         - Project involved building recommendation systems for Amazon products. A popularity-based model and a collaborative filtering filtering models were used and evaluated to recommend top-10 product for a user.
+        * ***[Recommendation](https://github.com/sharmapratik88/AIML-Projects/blob/master/06_Recommendation%20Systems/images/recommendation.PNG)***
+        ![recommend](https://github.com/sharmapratik88/AIML-Projects/blob/master/06_Recommendation%20Systems/images/recommendation.PNG)
     
 **7. Neural Networks**
    - Covers Gradient Descent, Batch Normalization, Hyper parameter tuning, Tensor Flow & Keras for Neural Networks & Deep Learning, Introduction to Perceptron & Neural Networks, Activation and Loss functions, Deep Neural Networks
