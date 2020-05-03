@@ -26,7 +26,7 @@ $ cd AIML-Projects
         * ***[Personal Loan vs Income](https://github.com/sharmapratik88/AIML-Projects/blob/master/02_Supervised%20Machine%20Learning/images/personal_loan.png)***
         * ***Model Scores***
         ![Scores](https://github.com/sharmapratik88/AIML-Projects/blob/master/02_Supervised%20Machine%20Learning/images/scores.PNG)
-        * ***Model Scores with SMOTE***
+        * ***[Model Scores with SMOTE](https://github.com/sharmapratik88/AIML-Projects/blob/master/02_Supervised%20Machine%20Learning/images/scores_smote.PNG)***
         ![Scores with SMOTE](https://github.com/sharmapratik88/AIML-Projects/blob/master/02_Supervised%20Machine%20Learning/images/scores_smote.PNG)
 
 **3. Ensemble Techniques**
@@ -36,7 +36,7 @@ $ cd AIML-Projects
         
         * ***[Decision Tree](https://github.com/sharmapratik88/AIML-Projects/blob/master/03_Ensemble%20Techniques/images/dtree.png)***
         * ***[Random Forest](https://github.com/sharmapratik88/AIML-Projects/blob/master/03_Ensemble%20Techniques/images/rforest.png)***
-        * ***Model Scores***
+        * ***[Model Scores](https://github.com/sharmapratik88/AIML-Projects/blob/master/03_Ensemble%20Techniques/images/scores.PNG)***
         ![Scores](https://github.com/sharmapratik88/AIML-Projects/blob/master/03_Ensemble%20Techniques/images/scores.PNG)
 
 **4. Unsupervised Machine Learning**
@@ -49,7 +49,7 @@ $ cd AIML-Projects
         * ***[PCA Explained Variance](https://github.com/sharmapratik88/AIML-Projects/blob/master/04_Unsupervised%20Learning/images/explained_var.png)***
         * ***Dimensionality Reduction***
         ![DR](https://github.com/sharmapratik88/AIML-Projects/blob/master/04_Unsupervised%20Learning/images/dimensionality_red.png)
-        * ***Training vs Cross-Validation Scores***
+        * ***[Training vs Cross-Validation Scores](https://github.com/sharmapratik88/AIML-Projects/blob/master/04_Unsupervised%20Learning/images/scores.png)***
         ![scores](https://github.com/sharmapratik88/AIML-Projects/blob/master/04_Unsupervised%20Learning/images/scores.png)
 
 **5. Feature Engineering Techniques**
