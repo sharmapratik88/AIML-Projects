@@ -115,7 +115,6 @@ $ cd AIML-Projects
  
          * ***[Model](https://github.com/sharmapratik88/AIML-Projects/blob/master/10_NLP_Sentiment%20Analysis/images/sequential_model.JPG)***
          * ***[Results](https://github.com/sharmapratik88/AIML-Projects/blob/master/10_NLP_Sentiment%20Analysis/images/results.JPG)***
-         
          ![Results](https://github.com/sharmapratik88/AIML-Projects/blob/master/10_NLP_Sentiment%20Analysis/images/results.JPG)
          
 **11. Sequential NLP (Natural Language Processing)**
