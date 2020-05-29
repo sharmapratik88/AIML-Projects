@@ -110,22 +110,11 @@ $ cd AIML-Projects
    
 **10. Statistical NLP (Natural Language Processing)**
    - Covers Bag of Words Model, POS Tagging, Tokenization, Word Vectorizer, TF-IDF, Named Entity Recognition, Stop Words
-      - **Project link:**
+      - **Project link:** [NLP Sentiment Analysis](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/10_NLP_Sentiment%20Analysis/10_Natural_Language_Processing_Sentiment_Analysis.ipynb)
     
 **11. Sequential NLP (Natural Language Processing)**
-
-
-
    - Covers Introduction to Sequential data, Vanishing & Exploding gradients in RNNs, LSTMs, GRUs (Gated recurrent unit), Case study: Sentiment analysis, RNNs and its mechanisms, Time series analysis, LSTMs with attention mechanism, Case study: Machine Translation
-      - **Project link:**
-
-**12. GANs (Generative adversarial networks)**
-   - Covers Introduction to GANs, How GANs work?, AutoEncoders, Applications of GANs
-      - **Project link:**
-    
-**13. Reinforcement Learning**
-   - Covers Value based methods Q-learning, Policy based methods
-      - **Project link:**
+      - **Project link:** [NLP Sarcasm Detection](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/11_Natural_Language_Processing_Sarcasm_Detection.ipynb)
 
 ## License
 Released under [MIT License](https://github.com/sharmapratik88/AIML-Projects/blob/master/LICENSE)
