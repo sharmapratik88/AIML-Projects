@@ -111,10 +111,12 @@ $ cd AIML-Projects
 **10. Statistical NLP (Natural Language Processing)**
    - Covers Bag of Words Model, POS Tagging, Tokenization, Word Vectorizer, TF-IDF, Named Entity Recognition, Stop Words
       - **Project link:** [NLP Sentiment Analysis](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/10_NLP_Sentiment%20Analysis/10_Natural_Language_Processing_Sentiment_Analysis.ipynb)
+         - The objective of this project is to build a text classification model that analyses the customer's sentiments based on their reviews in the IMDB database. The model uses a complex deep learning model to build an embedding layer followed by a classification algorithm to analyze the sentiment of the customers.
     
 **11. Sequential NLP (Natural Language Processing)**
    - Covers Introduction to Sequential data, Vanishing & Exploding gradients in RNNs, LSTMs, GRUs (Gated recurrent unit), Case study: Sentiment analysis, RNNs and its mechanisms, Time series analysis, LSTMs with attention mechanism, Case study: Machine Translation
       - **Project link:** [NLP Sarcasm Detection](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/11_Natural_Language_Processing_Sarcasm_Detection.ipynb)
+         - The goal of this hands-on project is to analyse the headlines of the articles from news sources and detect whether they are sarcastic or not.
 
 ## License
 Released under [MIT License](https://github.com/sharmapratik88/AIML-Projects/blob/master/LICENSE)
