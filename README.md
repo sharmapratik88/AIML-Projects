@@ -123,19 +123,11 @@ $ cd AIML-Projects
          ![WordCloud Sarcastic](https://github.com/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/images/word_cloud_sarcastic.png)
          
          * ***[WordCloud Non-Sarcasm](https://github.com/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/images/word_cloud_non_sarcastic.png)***
-         
-         ![WordCloud Non-Sarcasm](https://github.com/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/images/word_cloud_non_sarcastic.png)
-
          * ***[Model](https://github.com/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/images/sequential_model.JPG)***
-         
-         ![Model](https://github.com/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/images/sequential_model.JPG)
-         
          * ***[Monitoring Performance](https://github.com/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/images/sequential_model.JPG)***
-
          * ***[Confusion Matrix](https://github.com/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/images/confusion_matrix.JPG)***
          
          ![Confusion Matrix](https://github.com/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/images/confusion_matrix.JPG)
-
          * ***[Evaluate Randomly](https://github.com/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/images/evaluate_randomly.JPG)***
          
          ![Evaluate Randomly](https://github.com/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/images/evaluate_randomly.JPG)
