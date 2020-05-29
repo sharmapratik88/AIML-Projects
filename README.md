@@ -118,6 +118,28 @@ $ cd AIML-Projects
       - **Project link:** [NLP Sarcasm Detection](https://nbviewer.jupyter.org/github/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/11_Natural_Language_Processing_Sarcasm_Detection.ipynb)
          - The goal of this hands-on project is to analyse the headlines of the articles from news sources and detect whether they are sarcastic or not.
 
+         * ***[WordCloud Sarcastic](https://github.com/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/images/word_cloud_sarcastic.png)***
+         
+         ![WordCloud Sarcastic](https://github.com/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/images/word_cloud_sarcastic.png)
+         
+         * ***[WordCloud Non-Sarcasm](https://github.com/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/images/word_cloud_non_sarcastic.png)***
+         
+         ![WordCloud Non-Sarcasm](https://github.com/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/images/word_cloud_non_sarcastic.png)
+
+         * ***[Model](https://github.com/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/images/sequential_model.JPG)***
+         
+         ![Model](https://github.com/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/images/sequential_model.JPG)
+         
+         * ***[Monitoring Performance](https://github.com/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/images/sequential_model.JPG)***
+
+         * ***[Confusion Matrix](https://github.com/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/images/confusion_matrix.JPG)***
+         
+         ![Confusion Matrix](https://github.com/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/images/confusion_matrix.JPG)
+
+         * ***[Evaluate Randomly](https://github.com/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/images/evaluate_randomly.JPG)***
+         
+         ![Evaluate Randomly](https://github.com/sharmapratik88/AIML-Projects/blob/master/11_NLP_Sarcasm%20Detection/images/evaluate_randomly.JPG)
+
 ## License
 Released under [MIT License](https://github.com/sharmapratik88/AIML-Projects/blob/master/LICENSE)
 
