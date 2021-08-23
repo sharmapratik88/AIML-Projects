@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.html linguist-detectable=false
+**.html linguist-detectable=false
+**.html text diff=html
